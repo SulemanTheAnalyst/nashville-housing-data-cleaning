@@ -1,4 +1,4 @@
-# nashville-housing-data-cleaning
+# nashville-housing-data-cleaning-sql
 ## Objective
 To clean, standardize, and transform a real-world housing dataset using SQL so that it becomes suitable for further analysis or visualization in tools like Power BI or Tableau.
 
