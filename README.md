@@ -41,3 +41,6 @@ To clean, standardize, and transform a real-world housing dataset using SQL so t
 
 ### 6.Dropping Unused Columns
 - Dropped columns like `PropertyAddress`, `TaxDistrict`, `OwnerAddress`, and `SaleDate` once they were cleaned or replaced.
+
+## 📬 Let's Connect!
+If you're a recruiter or someone interested in collaborating, feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/sulemantheanalyst).  
